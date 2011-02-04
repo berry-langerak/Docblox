@@ -1,0 +1,58 @@
+body {
+	color: #666;
+	font-family: "georgia", "bitstream vera serif", "Times New Roman", serif;
+	line-height: 150%;
+}
+#menu {
+	width: 100%;
+	float: left;
+	clear: both;
+	padding-bottom: 30px;
+}
+
+#menu h1 {
+	color: #6495ED;
+	font-size: 300%;
+}
+
+h2 {
+	color: green;
+}
+#menu ul {
+	list-style-type: none;
+}
+
+#menu ul li {
+	float: left;
+	display: block;
+	width: 150px;
+}
+
+#index {
+	clear: left;
+	float: left;
+	margin-left: 20px;
+}
+
+.objectgraph {
+	float: left;
+	width: 800px;
+}
+
+#content {
+	/** float: left **/
+}
+
+.docblox-list small {
+	display: none;
+}
+
+.docblox-list ul {
+	padding: 0px 15px;
+}
+
+#footer {
+	width: 100%;
+	clear: both;
+	float: left;
+}
